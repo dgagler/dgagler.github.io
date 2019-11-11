@@ -11,7 +11,7 @@ Linkedin:
 These are some projects which I have done that I want you to know that I have done.
 
 ## Patterns in life's use of enzymatic reaction classes
-[Patterns in life's use of major enzymatic reaction classes](https://nbviewer.jupyter.org/github/dgagler/dgagler/blob/master/enzyme_demo.ipynb)
+## [Patterns in life's use of major enzymatic reaction classes](https://nbviewer.jupyter.org/github/dgagler/dgagler/blob/master/enzyme_demo.ipynb)
 
 ## Geochemical Modeling and Thermodynamic Property Estimation
 hahaha o eyaaaaa go

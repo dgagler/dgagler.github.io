@@ -20,6 +20,4 @@ These are some projects which I have done that I want you to know that I have do
 ## Geochemical Modeling and Thermodynamic Property Estimation
 hahaha o eyaaaaa go
 
-## Microbial Sequencing
-Yea...I sequence microbes. so what lol it's not rly a big deal hahaha just some qPCR gel electrophoresis w/e lol
 

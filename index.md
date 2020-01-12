@@ -14,10 +14,7 @@ These are some projects which I have done that I want you to know that I have do
 
 **Data retrieval, cleaning, analysis, and visualization in python.** I study large patterns in biology, aiming to uncover "laws of life". In many ways, life is a chemical process. And what makes biology unique, and in fact, allows it to exist at all, is it's ability to circumvent abiotic or "non-living" chemical reaction rates. Speeding up reactions is the main function of enzymes, which are essential to life's ability to function. Enzymes, being the functional workhorse of life, are poorly understood in the broader context of life. This project aims to create a bird's eye view of enzymes in biology by utilizing public genome and biochemical databases.
 
-# [Microbial Exploration of Spirea Creek, Yellowstone National Park]
-(https://nbviewer.jupyter.org/github/dgagler/dgagler/blob/master/spirea_sequencing_demo.ipynb)
+#[Microbial Exploration of Spirea Creek, Yellowstone National Park](https://nbviewer.jupyter.org/github/dgagler/dgagler/blob/master/spirea_sequencing_demo.ipynb)
 
 ## Geochemical Modeling and Thermodynamic Property Estimation
 hahaha o eyaaaaa go
-
-

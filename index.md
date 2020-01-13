@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 # Dylan C. Gagler
-Computational Biologist, Astrobiologist
+*Computational Biologist, Astrobiologist*
+
 M.S. in Geological Sciences
 
 [CV](https://github.com/dgagler/dgagler/blob/master/dgagler_CV.pdf) 

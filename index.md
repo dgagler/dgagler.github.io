@@ -1,9 +1,10 @@
 ## Welcome to GitHub Pages
 
 # Dylan C. Gagler
-M.S. in Computational Biochemistry
+M.S. in Geological Sciences
 
-# [CV](file:///Users/dgagler/Downloads/dgagler_CV.pdf) 
+![CV](https://github.com/dgagler/dgagler/blob/master/dgagler_CV.pdf) 
+
 
 Linkedin:
 

@@ -3,10 +3,10 @@
 # Dylan C. Gagler
 M.S. in Geological Sciences
 
-![CV](https://github.com/dgagler/dgagler/blob/master/dgagler_CV.pdf) 
+[CV](https://github.com/dgagler/dgagler/blob/master/dgagler_CV.pdf) 
 
 
-Linkedin:
+[LinkedIn](https://www.linkedin.com/in/dylan-gagler-4a0a68191/) 
 
 # Projects
 These are some projects which I have done that I want you to know that I have done.

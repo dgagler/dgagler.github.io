@@ -3,7 +3,7 @@
 # Dylan C. Gagler
 M.S. in Computational Biochemistry
 
-CV:  
+# [CV](file:///Users/dgagler/Downloads/dgagler_CV.pdf) 
 
 Linkedin:
 

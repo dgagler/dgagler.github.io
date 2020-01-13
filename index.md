@@ -1,7 +1,7 @@
 # Dylan C. Gagler
 *Computational Biologist, Astrobiologist*
 
-![alsome.png](alsome.png)
+<img src="me.png" alt="me" width="200"/>
 
 M.S. in Geological Sciences
 

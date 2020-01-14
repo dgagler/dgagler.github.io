@@ -1,4 +1,4 @@
-# Dylan C. Gagler
+# Profile
 <img src="me.png" alt="me" width="200"/>
 
 [CV](https://github.com/dgagler/dgagler/blob/master/dgagler_CV.pdf) 

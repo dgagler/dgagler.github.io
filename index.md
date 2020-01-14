@@ -1,13 +1,11 @@
 # Profile
-<img src="me.png" alt="me" width="200"/>
-
-[CV](https://github.com/dgagler/dgagler/blob/master/dgagler_CV.pdf) 
-
-[LinkedIn](https://www.linkedin.com/in/dylan-gagler-4a0a68191/) 
 
 ## About Me
 I'm a Master's student at Arizona State University, studying astrobiology with Dr. Sara Imari Walker. My research involves accumulating large amounts of genetic and biochemical data for microorganisms to uncover large scale patterns in biochemistry, specifically enzyme usage. My previous work involved geochemical and microbiological fieldwork in Yellowstone National Park, where I collected samples for subsequent laboratory analysis. Outside of research, I love to explore nature, read, and spend time with the people I care about.
 
+[CV](https://github.com/dgagler/dgagler/blob/master/dgagler_CV.pdf) 
+
+[LinkedIn](https://www.linkedin.com/in/dylan-gagler-4a0a68191/) 
 
 # Projects
 # [Patterns in life's use of major enzymatic reaction classes](https://nbviewer.jupyter.org/github/dgagler/dgagler/blob/master/enzyme_demo.ipynb)

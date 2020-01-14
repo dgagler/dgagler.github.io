@@ -1,7 +1,8 @@
 # Dylan C. Gagler
 Computational Biologist | Astrobiologist
 
-[CV](https://github.com/dgagler/dgagler/blob/master/dgagler_CV.pdf)\
+[CV](https://github.com/dgagler/dgagler/blob/master/dgagler_CV.pdf)
+
 [LinkedIn](https://www.linkedin.com/in/dylan-gagler-4a0a68191/) 
 
 ## About Me

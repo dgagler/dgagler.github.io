@@ -1,7 +1,9 @@
-# Profile
+# Research and Project Portfolio
+
+Computational Biologist | Astrobiologist
 
 ## About Me
-I'm a Master's student at Arizona State University, studying astrobiology with Dr. Sara Imari Walker. My research involves accumulating large amounts of genetic and biochemical data for microorganisms to uncover large scale patterns in biochemistry, specifically enzyme usage. My previous work involved geochemical and microbiological fieldwork in Yellowstone National Park, where I collected samples for subsequent laboratory analysis. Outside of research, I love to explore nature, read, and spend time with the people I care about.
+I'm a Master's student at Arizona State University, studying astrobiology with Dr. Sara Imari Walker. My research involves accumulating large amounts of genetic and biochemical data for microorganisms to uncover large scale patterns in biochemistry, specifically enzyme usage. My previous work involved geochemical and microbiological fieldwork in Yellowstone National Park, where I collected samples for subsequent laboratory analysis. Outside of research, I love to explore nature, read, and spend time with the people I love.
 
 [CV](https://github.com/dgagler/dgagler/blob/master/dgagler_CV.pdf) 
 

@@ -9,6 +9,8 @@ Computational Biologist | Astrobiologist
 I'm a Master's student at Arizona State University, studying astrobiology with Dr. Sara Imari Walker. My research involves accumulating large amounts of genetic and biochemical data from microorganisms to uncover large scale patterns in enzyme biochemistry. My previous work involved the analysis of microbiological and geochemical samples from Yellowstone National Park, including taxonomic characterization and dissolved gas measurements. Outside of research, I love to play table tennis, explore nature, read, and spend time with the people I love.
 
 # Projects
+Below you can learn more about my research and previous and current projects. Click on the title links to see overviews in Jupyter NBViewer.
+
 # [Patterns in life's use of major enzymatic reaction classes](https://nbviewer.jupyter.org/github/dgagler/dgagler.github.io/blob/master/enzyme_demo.ipynb)
 
 **Data retrieval, cleaning, analysis, and visualization in python.** A driving question in astrobiology is whether the structure and diversity of life we see on Earth is the result of chemical and evolutionary contingency, or the manifestation of underlying organizational principles. The realization of such principles would inform attempts at synthesizing life in the laboratory, searching for life in the universe, and understanding the origin of life on Earth. For this project, I leverage large amounts of publically available genetic and enzymatic data for organisms across the tree of life in tandem with biochemical reaction data to uncover patterns in life's use of enzyme reaction classes across domains and levels of organization.

@@ -6,7 +6,7 @@ Computational Biologist | Astrobiologist
 [LinkedIn](https://www.linkedin.com/in/dylan-gagler-4a0a68191/) 
 
 ## About Me
-I'm a Master's student at Arizona State University, studying astrobiology with Dr. Sara Imari Walker. My research involves accumulating large amounts of genetic and biochemical data from microorganisms to uncover large scale patterns in enzyme biochemistry. My previous work involved the analysis of microbiological and geochemical samples from Yellowstone National Park, including taxonomic characterization and dissolved gas measurements. Outside of research, I love to play table tennis, explore nature, read, and spend time with the people I love.
+I'm a master's student at Arizona State University, studying astrobiology and computational biology with Dr. Sara Imari Walker. My research involves accumulating large amounts of genetic and biochemical data from microorganisms to uncover large scale patterns in enzyme biochemistry. My previous work involved the analysis of microbiological and geochemical samples from Yellowstone National Park, including taxonomic characterization and dissolved gas measurements. Outside of research, I love to play table tennis, explore nature, read, and spend time with the people I love.
 
 # Projects
 Below you can learn more about my research and previous and current projects. Click on the title links to see overviews in Jupyter NBViewer.

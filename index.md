@@ -13,8 +13,6 @@ I'm a master's student at Arizona State University, studying astrobiology and co
 # Projects
 Below you can learn more about my research and previous and current projects. Click on the title links to see overviews in Jupyter NBViewer.
 
-# [Data Visualization Portfolio](https://nbviewer.jupyter.org/github/dgagler/Data-Visualization-Portfolio/blob/master/portfolio%20%281%29.ipynb)
-
 Here you can see some of the plots and figures I've generated.
 
 # [Patterns in life's use of major enzymatic reaction classes](https://nbviewer.jupyter.org/github/dgagler/dgagler.github.io/blob/master/enzyme_demo.ipynb)

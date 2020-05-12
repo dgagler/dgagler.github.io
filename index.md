@@ -8,8 +8,7 @@ Computational Biologist | Astrobiologist
 ## About Me
 I'm a master's student at Arizona State University, studying astrobiology and computational biology in the lab of Dr. Sara Imari Walker. I am **fluent in Python** and have particular expertise **analyzing and visualizating complex biological data**. My thesis involves accumulating large amounts of genetic and biochemical data from microorganisms to uncover large scale patterns in enzyme biochemistry, and a manuscript is currently in prep. Prior research experience includes dissolved gas chromatography, DNA extraction and amplification, 16S RNA analysis, and microbial taxonomic characterization using the R package, QIIME 2. Pre-prior research experience includes geoarchaeological and paleontological field work in Kenya, and geochronological analysis of detrital zircons using Laser Ablation Inductively Coupled Plasma Mass Spectrometry (LA-ICP-MS). Outside of research, I love to play table tennis, explore nature, read, and spend time with the people I love.
 
-# [Data Visualization Portfolio]
-(https://nbviewer.jupyter.org/github/dgagler/Data-Visualization-Portfolio/blob/master/portfolio%20%281%29.ipynb)
+# [Data Visualization Portfolio](https://nbviewer.jupyter.org/github/dgagler/Data-Visualization-Portfolio/blob/master/portfolio%20%281%29.ipynb)
 
 Here you can see some of the plots and figures I've generated.
 

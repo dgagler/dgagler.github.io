@@ -29,3 +29,7 @@ Below you can learn more about my research and previous and current projects. Cl
 # [Exploring microbial diversity and composition with DADA2 and phyloseq in R](https://nbviewer.jupyter.org/github/dgagler/dgagler.github.io/blob/master/mouse_microbiome_dada2phyloseq.ipynb)
 
 **Denoising, filtering, trimming, dereplicating, sample inference, taxonomic characterization, and visualization of murine microbiome data using the DADA2 and phyloseq packages in R.** Analyzing the bacterial composition of a publically available dataset. The data is from a longitudinal study of the fecal samples of 12 mice over the first year of life which investigated the development and stabilization of the murine microbiome following weaning. In this workflow, we will start with raw reads and end with an assessment of the taxonomic diversity and composition of these samples.
+
+# [Taxonomic Exploration and Phylogenetic Tree Visualization of Hot Spring Microbiomes from Spirea Creek, YNP](https://nbviewer.jupyter.org/github/dgagler/dgagler.github.io/blob/master/qiime_to_phyloseq.ipynb)
+
+**Importing, denoising, and generating feature tables and rooted phylogenetic trees in QIIME 2. Generating phyloseq objects and importing data into R for visualization.** 

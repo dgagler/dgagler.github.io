@@ -1,17 +1,20 @@
 # Dylan C. Gagler
-Computational Biologist | Astrobiologist
+Computational Biologist | Data Scientist
 
 [CV](https://github.com/dgagler/dgagler/blob/master/dgagler_CV.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/dylan-gagler-4a0a68191/) 
 
-[Data Visualization Portfolio](https://nbviewer.jupyter.org/github/dgagler/Data-Visualization-Portfolio/blob/master/portfolio%20%281%29.ipynb)
+# Research Portfolio
+Below you can view various research projects that I have worked on, which highlight my skills in data science, data visualization, and data communication across a wide range of topics relating to the natural sciences and human health. 
 
-## About Me
-I recently graduated with my MS from Arizona State University, where I studied astrobiology and computational biology in the lab of Dr. Sara Imari Walker. I am **fluent in Python, competent in R**, have expertise **analyzing, visualizating, and communicating complex biological data**. My thesis project involved accumulating large amounts of microbial genetic and biochemical data from the Joint Genome Institute's Integrated Microbial Genomes and Microbiomes (JGI IMG/M) to explore the notion of universality in biochemistry and uncover patterns in microbial enzyme distributions. A manuscript is currently in prep. Other relevant research experience single-cell RNA sequencing analysis and microbiome analysis. Prior research experience includes geochemical and microbiological field work in Yellowstone National Park, DNA extraction and amplification, and gas chromatography. Outside of research I love to backpack, be in nature, play table tennis, read, and spend time with my friends and family.
+# [Single-cell RNA Analysis of the Bone Marrow Stromal Compartment in a 5TGM1 Mouse Model]
+The stromal compartment, including mesenchymal stromal cells, osteocytes, and endothelial cells, among others, plays a significant role in the support of normal stem cell growth and development. How this compartment changes in response to multiple myeloma, to support growth of the myeloma cell niche, is not fully understood. This project helps to elucidate the role of the stromal compartment in multiple myeloma pathogenesis by using single-cell RNA sequencing on flow-sorted stromal cell populations derived from the bone marrows of mice injected with multiple myeloma. Data analyzed in R.
 
-# Projects
-Below you can learn more about my research and previous and current projects. Click on the title links to see overviews in Jupyter NBViewer.
+# [Single-cell RNA Analysis of the Bone Marrow Microenvironment in Response to 4-Drug Treatment Regimens]
+4-drug treatment regimens have proved to be highly effective at treating myeloma but a substantial minority patients are resistant to these treatment regimens and quickly relapse. The bone marrow cellular dynamics driving treatment resistance in high-risk patients, however, remain unclear. This project develops our understanding of these cellular dynamics by using single-cell RNA sequencing on flow-sorted immune cell populations derived from the bone marrows of multiple myeloma patients before and after receiving a 4-drug treatment regimen. Data analyzed in R.
+
+# [16S Microbiome Analysis of 
 
 # [Patterns in life's use of major enzymatic reaction classes](https://nbviewer.jupyter.org/github/dgagler/dgagler.github.io/blob/master/enzyme_demo.ipynb)
 
@@ -20,11 +23,6 @@ Below you can learn more about my research and previous and current projects. Cl
 # [Microbial Exploration of Spirea Creek, Yellowstone National Park](https://nbviewer.jupyter.org/github/dgagler/spirea/blob/master/spirea_sequencing_demo.ipynb)
 
 **Microbiological fieldwork, DNA extraction and PCR amplification, sequence analysis and taxonomic classification using QIIME 2, and data visualization in Python.** Yellowstone National Park (YNP) is one of the premier locations to study the intersection of geochemistry and microbiology. For this project, I collected microbial samples from a set of previously uncharacterized geochemical hot springs in YNP. DNA was extracted from these samples, amplified via PCR, and subsequently sequenced. I analyzed the sequence data using QIIME 2 and visualized the results using python. This project explores the biology of diverse hot spring ecosystems.
-
-# [Cell-type Identification of Single-Cell RNA Sequencing Data](https://nbviewer.jupyter.org/github/dgagler/scRNA-seq/blob/master/PBMC_analysis.ipynb)
-
-
-**Quality control, normalization, feature selection, dimensionality reduction, clustering, cell-type annotation, and visualization of single-cell RNA sequencing data using Bioconductor in R.** Peripheral blood mononuclear cells (PBMCs) are blood cells with a round nucleus. These cells are a critical part of the immune system which primarily fight off infection. However, PBMCs consist of multiple cell types and studying the function of the different cell types can be difficult using bulk RNA sequencing methods. As such, single-cell RNA sequencing is a valuable tool for studying the heterogeneity and differential expression of PMBCs. Here, I walk through an analytical pipeline for cell-type identification in a publicaly available 10X Genomics PBMC dataset in R using various Bioconductor packages including scran, scater, and DropUtils.
 
 # [Exploring microbial diversity and composition with DADA2 and phyloseq in R](https://nbviewer.jupyter.org/github/dgagler/dgagler.github.io/blob/master/mouse_microbiome_dada2phyloseq.ipynb)
 

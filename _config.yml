@@ -1,8 +1,5 @@
 title: Dylan C. Gagler
-description: Interdisciplinary natural scientist. Incoming PhD student @ AMNH
+description: Interdisciplinary natural scientist and incoming PhD student @ AMNH
 email: dylangagler@gmail.com
 logo: Me_Norway.jpg
-#theme: jekyll-theme-minimal
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-minimal

@@ -15,7 +15,7 @@ This portfolio showcases previous research experience in astrobiology and cancer
 
 This study (*Gagler* et al., 2025, Blood) is now published in Blood! Check out the [manuscript](https://ashpublications.org/blood/article-abstract/doi/10.1182/blood.2024028164/537142/A-multiomic-analysis-of-Waldenstrom?redirectedFrom=fulltext) and [GitHub](https://github.com/dgagler/WM_scMultiomeAnalysis) for more details.
 
-![Visual Abstract](https://github.com/dgagler/dgagler.github.io/blob/master/WM_visualAbstract.png)
+![WM_visualAbstract](https://github.com/user-attachments/assets/45234f36-fb0a-49c9-b072-999ba6bf367c)
 
 ## Brief summary
 Waldenstrom's macroglobulinemia (WM) is a rare hematological malignancy clinically characterized by aberrant secretion of monoclonal IgM and the accumulation of lymphoplasmacytic cells in the bone marrow, in addition to a recurrent mutation at the L265P locus of the MYD88 gene. Note the above phrase lymphoplasmacytic, which implies that these cells are characterized by both lymphocytic and plasmacytic features. WM is known to present a melange of characteristics between the 2 cell types, both morphologically and immunologically, and recent studies have identified 2 subtypes of WM, Memory B-cell (MBC)-like and Plasma cell (PC)-like, based on DNA methylation data. The biological and clinical differences between these 2 subtypes, however, remains unclear. 
@@ -25,6 +25,7 @@ As such, this study set out to identify the transcriptional, epigenetic, and B-c
 Analysis performed using R, Python, and bash.
 
 ![Header](https://github.com/dgagler/dgagler.github.io/blob/master/WM_header.png)
+![WM_header](https://github.com/user-attachments/assets/374f9c8f-3ac1-4136-aefc-aaca9724e018)
 
 # Single-cell RNA Analysis of the Bone Marrow Stromal Compartment in a 5TGM1 Mouse Model
 This study (Ghamlouch, *Gagler*, et al., 2025, Experimental Hematology & Oncology*) is now published! Check out the [manuscript](https://link.springer.com/article/10.1186/s40164-025-00606-x) and [GitHub](https://github.com/dgagler/5TGM1-Stromal) for more details.
@@ -32,7 +33,7 @@ This study (Ghamlouch, *Gagler*, et al., 2025, Experimental Hematology & Oncolog
 ## Brief summary
 The stromal compartment of the bone marrow (BM), which includes mesenchymal stromal cells, osteocytes, fibroblasts, and endothelial cells, among others, plays a significant role in the support of normal stem cell growth and development. How this compartment, which putatively changes to support the tumor cell niche in multiple myeloma (MM), however, is not fully understood. This project helps to elucidate the role of the stromal compartment of the BM in multiple myeloma pathogenesis by using single-cell RNA sequencing on flow-sorted stromal cell populations derived from the bone marrows of mice injected with multiple myeloma.
 
-![Stromal UMAP](https://github.com/dgagler/dgagler.github.io/blob/master/Fig2A_StromalCells_UMAP_WithCellCounts.png)
+![Fig2A_StromalCells_UMAP_WithCellCounts](https://github.com/user-attachments/assets/acbb1cfc-8e60-46c1-bbdb-0b06c1a3a709)
 
 Our results show that the MM cells remodel the stromal microenvironment by altering the amount and function of MSCs and endothelial cells. Through favoring an adipocytic fate of MSCs, endothelial mesenchymal transition and altering the balance between arterial and sinusoidal endothelial cells, MM cells promote an inflammatory environment that contributes to MM development and progression.
 

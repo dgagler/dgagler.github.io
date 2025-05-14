@@ -1,14 +1,13 @@
-# Dylan C. Gagler
-Computational Biologist | Incoming PhD Student @ AMNH
+# Research Portfolio
+Interdisciplinary natural scientist with extensive bioinformatic and field experience. Peer-reviewed first author publications in astrobiology and cancer biology. Incoming PhD student at the AMNH interested in photosymbioses in sacoglossan sea slugs. This portfolio showcases previous research experience in astrobiology and cancer biology which demonstrates proficiency in bioinformatic analysis of NGS data and general academic computational biology wherehow. 
+
+[Google Scholar](https://scholar.google.com/citations?user=6l3aYEoAAAAJ&hl=en&oi=sra)
 
 [CV](https://github.com/dgagler/dgagler/blob/master/dgagler_CV_2024.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/dylan-gagler-4a0a68191/) 
 
-# Research Portfolio
-Below you can view various research projects that I have worked on, which highlight my skills in data analysis, visualization, and communication across a wide range of topics relating to the natural sciences and human health. 
-
-# Single-cell multiomic analysis of Waldenstrom's macroglobulinemia
+# A multiomic analysis of Waldenstrom's macroglobulinemia defines distinct disease subtypes
 
 This study (*Gagler* et al., 2025, Blood) is now published in Blood! Check out the [manuscript](https://ashpublications.org/blood/article-abstract/doi/10.1182/blood.2024028164/537142/A-multiomic-analysis-of-Waldenstrom?redirectedFrom=fulltext) and [GitHub](https://github.com/dgagler/WM_scMultiomeAnalysis) for more details.
 
@@ -35,6 +34,12 @@ Our results show that the MM cells remodel the stromal microenvironment by alter
 
 # Single-cell RNA Analysis of the Bone Marrow Microenvironment in Response to 4-Drug Treatment Regimens
 4-drug treatment regimens have proved to be highly effective at treating myeloma but a substantial minority patients are resistant to these treatment regimens and quickly relapse. The bone marrow cellular dynamics driving treatment resistance in high-risk patients, however, remain unclear. This project develops our understanding of these cellular dynamics by using single-cell RNA sequencing on flow-sorted immune cell populations derived from the bone marrows of multiple myeloma patients before and after receiving a 4-drug treatment regimen. Data analyzed in R.
+
+# Scaling laws in enzyme function reveal a new kind of biochemical universality
+This study (*Gagler et al., 2022, PNAS*) is published! Check out the [manuscript](https://www.pnas.org/doi/abs/10.1073/pnas.2106655119) for more details.
+
+## Abstract
+All life on Earth is unified by its use of a shared set of component chemical compounds and reactions, providing a detailed model for universal biochemistry. However, this notion of universality is specific to known biochemistry and does not allow quantitative predictions about examples not yet observed. Here, we introduce a more generalizable concept of biochemical universality that is more akin to the kind of universality found in physics. Using annotated genomic datasets including an ensemble of 11,955 metagenomes, 1,282 archaea, 11,759 bacteria, and 200 eukaryotic taxa, we show how enzyme functions form universality classes with common scaling behavior in their relative abundances across the datasets. We verify that these scaling laws are not explained by the presence of compounds, reactions, and enzyme functions shared across known examples of life. We demonstrate how these scaling laws can be used as a tool for inferring properties of ancient life by comparing their predictions with a consensus model for the last universal common ancestor (LUCA). We also illustrate how network analyses shed light on the functional principles underlying the observed scaling behaviors. Together, our results establish the existence of a new kind of biochemical universality, independent of the details of life on Earth’s component chemistry, with implications for guiding our search for missing biochemical diversity on Earth or for biochemistries that might deviate from the exact chemical makeup of life as we know it, such as at the origins of life, in alien environments, or in the design of synthetic life.
 
 # [Patterns in life's use of major enzymatic reaction classes](https://nbviewer.jupyter.org/github/dgagler/dgagler.github.io/blob/master/enzyme_demo.ipynb)
 

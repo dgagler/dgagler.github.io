@@ -1,5 +1,9 @@
 # Research Portfolio
-Interdisciplinary natural scientist with extensive bioinformatic and field experience. Peer-reviewed first author publications in astrobiology and cancer biology. Incoming PhD student at the AMNH interested in photosymbioses in sacoglossan sea slugs. This portfolio showcases previous research experience in astrobiology and cancer biology which demonstrates proficiency in bioinformatic analysis of NGS data and general academic computational biology wherehow. 
+- Interdisciplinary natural scientist with extensive bioinformatic and field experience
+- Peer-reviewed first author publications in astrobiology and cancer biology
+- Incoming PhD student at the American Museum of Natural History interested in sea slug photosymbiosis
+
+This portfolio showcases previous research experience in astrobiology and cancer biology which demonstrates proficiency in bioinformatic analysis of NGS data and general academic computational biology wherehow. 
 
 [Google Scholar](https://scholar.google.com/citations?user=6l3aYEoAAAAJ&hl=en&oi=sra)
 
@@ -26,7 +30,7 @@ Analysis performed using R, Python, and bash.
 This study (Ghamlouch, *Gagler*, et al., 2025, Experimental Hematology & Oncology*) is now published! Check out the [manuscript](https://link.springer.com/article/10.1186/s40164-025-00606-x) and [GitHub](https://github.com/dgagler/5TGM1-Stromal) for more details.
 
 ## Brief summary
-The stromal compartment, including mesenchymal stromal cells, osteocytes, fibroblasts, and endothelial cells, plays a significant role in the support of normal stem cell growth and development. How this compartment, which putatively changes to support the tumor cell niche in multiple myeloma (MM), however, is not fully understood. This project helps to elucidate the role of the stromal compartment in multiple myeloma pathogenesis by using single-cell RNA sequencing on flow-sorted stromal cell populations derived from the bone marrows of mice injected with multiple myeloma.
+The stromal compartment of the bone marrow (BM), which includes mesenchymal stromal cells, osteocytes, fibroblasts, and endothelial cells, among others, plays a significant role in the support of normal stem cell growth and development. How this compartment, which putatively changes to support the tumor cell niche in multiple myeloma (MM), however, is not fully understood. This project helps to elucidate the role of the stromal compartment of the BM in multiple myeloma pathogenesis by using single-cell RNA sequencing on flow-sorted stromal cell populations derived from the bone marrows of mice injected with multiple myeloma.
 
 ![Stromal UMAP](https://github.com/dgagler/dgagler.github.io/blob/master/Fig2A_StromalCells_UMAP_WithCellCounts.png)
 

@@ -24,7 +24,6 @@ As such, this study set out to identify the transcriptional, epigenetic, and B-c
 
 Analysis performed using R, Python, and bash.
 
-![Header](https://github.com/dgagler/dgagler.github.io/blob/master/WM_header.png)
 ![WM_header](https://github.com/user-attachments/assets/374f9c8f-3ac1-4136-aefc-aaca9724e018)
 
 # Single-cell RNA Analysis of the Bone Marrow Stromal Compartment in a 5TGM1 Mouse Model

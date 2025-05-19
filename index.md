@@ -3,7 +3,7 @@
 - Peer-reviewed first author publications in astrobiology and cancer biology
 - Incoming PhD student at the American Museum of Natural History interested in sea slug photosymbiosis
 
-This portfolio showcases previous research experience in astrobiology and cancer biology which demonstrates proficiency in bioinformatic analysis of NGS data and general academic computational biology wherehow. 
+This portfolio showcases previous research experience in astrobiology and cancer biology, demonstrating proficiency in bioinformatic analysis of NGS data and general academic computational biology abilities. 
 
 [Google Scholar](https://scholar.google.com/citations?user=6l3aYEoAAAAJ&hl=en&oi=sra)
 
